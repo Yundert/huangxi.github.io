@@ -3,6 +3,8 @@ title: About
 permalink: /about/
 ---
 
+![It's me.](/images/me.png)
+
 ## 关于我
 
 我是黄曦。
