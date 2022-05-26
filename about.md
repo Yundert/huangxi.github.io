@@ -18,7 +18,7 @@ permalink: /about/
 
 ## About Me
 
-I'm Xi Huang, currently working as an assistant research scientist with [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn), and a member of [Network Communications and Economics Lab](https://ncel.cuhk.edu.cn) at CUHK, Shenzhen. My research interests include the optimization for intelligent network systems, interactions among multiple agents, and the economic scope between AI and society. Here's the [link](https://scholar.google.com/citations?user=_BRMr6cAAAAJ) to my homepage on Google Scholar.  
+I'm Xi Huang, currently working as a research scientist with [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn), and also a member of [Network Communications and Economics Lab](https://ncel.cuhk.edu.cn) at CUHK, Shenzhen. My research interests include the optimization for intelligent network systems, interactions among multiple agents, and the economic scope between AI and society. Here's the [link](https://scholar.google.com/citations?user=_BRMr6cAAAAJ) to my homepage on Google Scholar.  
 
 Before joining AIRS, I spent my graduate school life at ShanghaiTech University, China, and received my Ph.D. degree from University of Chinese Academy of Sciences (UCAS), supervised by [Prof. Ziyu Shao](https://faculty.sist.shanghaitech.edu.cn/faculty/shaozy/home.html). In the meantime, I also went to Berkeley as a visiting student in 2017. Prior to that, I received my bachelor degree from Nanjing University, China, majoring in Software Engineering. 
 
