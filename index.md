@@ -3,8 +3,9 @@
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <div style="background-color:#FAF0D7; padding: 20px">
-        {{ post.content }}
+        {{ post.content[0, 100]+'...' }}
       </div>
+      <br>
     </li>
   {% endfor %}
 </ul>
