@@ -1,7 +1,7 @@
 ---
 id: 20220526
 title: Maps in Palm
-date: "26 May 2022"
+pdate: "26 May 2022"
 author: Xi
 comments: true
 layout: post
