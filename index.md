@@ -3,7 +3,7 @@
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <div style="background-color:#FAF0D7; padding: 20px">
-        {{ post.content[0, 100]+'...' }}
+        {{ post.abstract }}
       </div>
       <br>
     </li>
