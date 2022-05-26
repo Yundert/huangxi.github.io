@@ -1,6 +1,10 @@
 theme: jekyll-theme-minimal
 title: UNCOMMON SENSE
-description: "\"I don't think..\"\n\"Then you shouldn't talk.\"  —— Alice's Adventures in Wonderland"
+description: >
+"I don't think.." <br>
+"Then you shouldn't talk." <br>  
+
+—— Alice's Adventures in Wonderland <br>
 
 
 # The 'comments' setting enables comments. You'll need to select either
