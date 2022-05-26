@@ -2,7 +2,9 @@
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.content[:100] }}
+      <div style="color:grey">
+        {{ post.content }}
+      </div>
     </li>
   {% endfor %}
 </ul>
