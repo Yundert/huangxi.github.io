@@ -1,7 +1,7 @@
 ---
 id: 20220526
 title: Maps in Palm
-date: {{ page.date | date: "%-d %B %Y" }}
+date: "26 May 2022"
 author: yundert
 comments: true
 layout: post
