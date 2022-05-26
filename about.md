@@ -25,3 +25,11 @@ Before being part of AIRS, I spent my graduate school life at ShanghaiTech Unive
 This is a personal website where I'll present part of my thoughts on things in daily life. Otherwise stated, the content presented on this site is all my original work. All rights reserved. 
 
 Feel free to leave your comments via e-mail: dr dot huangxi at gmail dot com. Enjoy your stay here! 
+
+
+<script>
+    (function(){
+        var elems = document.getElementsByClassName("view");
+        elems[elems.length-1].remove();
+    })();
+</script>

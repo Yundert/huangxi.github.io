@@ -10,3 +10,10 @@
     </li>
   {% endfor %}
 </ul>
+
+<script>
+    (function(){
+        var elems = document.getElementsByClassName("view");
+        elems[elems.length-1].remove();
+    })();
+</script>
