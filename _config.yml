@@ -31,3 +31,5 @@ markdown: kramdown
 plugins: ['jekyll-paginate', 'jekyll-feed']
 
 exclude: ['README.md', 'LICENSE.md']
+github:
+  is_project_page: false
