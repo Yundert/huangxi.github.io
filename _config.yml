@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
 title: UNCOMMON SENSE
 description: >
-  "I don't think.." 
-  "Then you shouldn't talk."  
+  "I don't think.." \n
+  "Then you shouldn't talk." \n\n 
   
-  -- Alice's Adventures in Wonderland
+  —— Alice's Adventures in Wonderland
 
 
 # The 'comments' setting enables comments. You'll need to select either
@@ -23,6 +23,6 @@ paginate: 5
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate', 'jekyll-feed']
+plugins: ['jekyll-paginate', 'jekyll-feed']
 
 exclude: ['README.md', 'LICENSE.md']
