@@ -6,7 +6,7 @@ author: Xi
 comments: false
 layout: post
 categories: 思考
-tags: 180计划, 2023
+tags: 180计划 2023
 guid: https://yundert.github.io/2023/03/20/seeing-like-a-state/
 permalink: /2023/03/20/seeing-like-a-state/
 abstract: 听詹姆斯・C・斯科特探讨人类社会构建与改造的失败模式。
