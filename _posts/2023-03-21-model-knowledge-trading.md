@@ -1,7 +1,7 @@
 ---
 id: 20230321
 title: 关于模型知识交易
-pdate: "20 Mar 2023"
+pdate: "21 Mar 2023"
 author: Xi
 comments: false
 layout: post
