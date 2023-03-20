@@ -9,11 +9,12 @@ categories: 思考
 tags: AI经济学
 guid: https://yundert.github.io/2023/03/21/model-knowledge-trading/
 permalink: /2023/03/21/model-knowledge-trading/
-abstract: 
+abstract: 大模型时代来临，不同形态的知识该如何定价？
 ---
 
 
 ### 核心观点
+
 
 
 
