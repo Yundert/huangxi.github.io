@@ -11,7 +11,7 @@ permalink: /about/
 
 此前，我从上海科技大学获得博士学位（导师为[邵子瑜教授](https://faculty.sist.shanghaitech.edu.cn/faculty/shaozy/home.html)），从南京大学软件工程专业获得学士学位，读博期间曾前往加州大学伯克利分校访学。
 
-这里记录我的个人思考，不定期更新。内容原创，转载请注明出处，或与我联系（邮箱：dr.huangxi@gmail.com）。欢迎任何有意义的交流！ 
+这里记录我的个人思考，不定期更新。内容原创，转载请注明出处，或与我联系（dr dot huangxi at gmail dot com）。欢迎任何有意义的交流！ 
 
 <br>
 
