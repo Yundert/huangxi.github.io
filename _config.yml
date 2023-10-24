@@ -8,9 +8,9 @@ description: >
   <br> 
   <p class="view"><a href="https://yundert.github.io"> Homepage </a></p>
   <p class="view"><a href="https://yundert.github.io/about/"> Define Me </a></p>
-  <link type="application/rss+xml" rel="alternate" title="{{ site.title }}" href="/feed.xml">
+  <a href="/feed.xml" target="_blank">RSS Feed</a>
   <hr>  
-# <b> 皆为原创, 转载请保留出处。 </b>
+  <b> 皆为原创, 转载请保留出处。 </b>
 
 
 # The 'comments' setting enables comments. You'll need to select either
